@@ -261,9 +261,9 @@
 			<td><?php echo $comments['comment_parent'];?></td>
 			<td><?php echo $comments['user_id'];?></td>
 			<td class="actions">
-				<?php echo $html->link(__('View', true), array('controller' => 'comments', 'action' => 'view', $comments['id'])); ?>
-				<?php echo $html->link(__('Edit', true), array('controller' => 'comments', 'action' => 'edit', $comments['id'])); ?>
-				<?php echo $html->link(__('Delete', true), array('controller' => 'comments', 'action' => 'delete', $comments['id']), null, sprintf(__('Are you sure you want to delete # %s?', true), $comments['id'])); ?>
+				<?php echo $html->link(__('View', true), array('controller' => 'comments', 'action' => 'view', $comments['comment_ID'])); ?>
+				<?php echo $html->link(__('Edit', true), array('controller' => 'comments', 'action' => 'edit', $comments['comment_ID'])); ?>
+				<?php echo $html->link(__('Delete', true), array('controller' => 'comments', 'action' => 'delete', $comments['comment_ID']), null, sprintf(__('Are you sure you want to delete # %s?', true), $comments['comment_ID'])); ?>
 			</td>
 		</tr>
 	<?php endforeach; ?>
