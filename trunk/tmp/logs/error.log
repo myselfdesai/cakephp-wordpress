@@ -1,5 +1,0 @@
-2010-04-04 09:49:26 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\views\posts\index.ctp, line 19]
-2010-04-04 09:52:46 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\views\posts\index.ctp, line 38]
-2010-04-04 09:52:47 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\views\posts\index.ctp, line 38]
-2010-04-04 20:51:47 Warning: Warning (2): session_regenerate_id() [<a href='http://php.net/function.session-regenerate-id'>function.session-regenerate-id</a>]: Session object destruction failed in [C:\AppServ\www\cakephp\cake\libs\session.php, line 598]
-2010-04-04 20:51:47 Warning: Warning (2): session_regenerate_id() [<a href='http://php.net/function.session-regenerate-id'>function.session-regenerate-id</a>]: Session object destruction failed in [C:\AppServ\www\cakephp\cake\libs\session.php, line 598]
