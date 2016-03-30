@@ -1,0 +1,1 @@
+The idea behind "CakePress" (tentatively named) is simply to streamline Wordpress and make it easier to create plugins, themes and additional functionality for a blogging application. CakePress is meant only as demonstrative purposes and not intended to be a replacement to the popular blogging platform.
